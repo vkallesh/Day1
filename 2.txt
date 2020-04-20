@@ -1,0 +1,1 @@
+Another file, which is not staged for commit
